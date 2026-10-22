@@ -1,8 +1,13 @@
 # Practicas-Bases-de-Datos 
 # 2026-2
-Integrantes:
+**Integrantes:**
+
 -Klinsman Huillca Montufar
+
 -Bruno Dayer Ramos Peralta
+
 -Carlos Manuel Aguilar Vilca
+
 -Marco Jafeth Choque Ordoñez
--Flor Ayelen Michcapacchua Huarca
+
+-Flor Ayelen Michcapaachua Huarca
