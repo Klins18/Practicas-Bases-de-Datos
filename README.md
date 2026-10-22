@@ -4,3 +4,4 @@ Integrantes:
 -Klinsman Huillca Montufar
 -Bruno Dayer Ramos Peralta
 -Carlos Manuel Aguilar Vilca
+-Marco Jafeth Choque Ordoñez
