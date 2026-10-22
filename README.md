@@ -10,4 +10,4 @@
 
 -Marco Jafeth Choque Ordoñez
 
--Flor Ayelen Michcapaachua Huarca
+-Flor Ayelen Michcapacchua Huarca
