@@ -1,5 +1,5 @@
 CREATE TABLE venta (
-  id_venta NUMERIC primary key,
+  id_venta BIGINT GENERATED ALWAYS AS IDENTITY,
   fecha_venta DATE NOT NULL,
-  metodo_pago VARCHAR2(30) NOT NULL
+  metodo_pago VARCHAR(30) NOT NULL
 );
