@@ -1,0 +1,7 @@
+CREATE TABLE empleado (
+  id_empleado BIGINT GENERATED ALWAYS AS IDENTITY,
+  dni VARCHAR(8) NOT NULL,
+  nombre VARCHAR(50) NOT NULL,
+  apellido VARCHAR(50) NOT NULL,
+  estado VARCHAR(15) NOT NULL
+);
