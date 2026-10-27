@@ -1,5 +1,5 @@
 CREATE TABLE detalle_venta (
-  id_detalle NUMBER PRIMARY KEY,
-  cantidad NUMBER NOT NULL,
-  precio_historico NUMBER(10,2) NOT NULL
+  id_detalle NUMERIC PRIMARY KEY,
+  cantidad NUMERIC NOT NULL,
+  precio_historico NUMERIC(10,2) NOT NULL
 );
