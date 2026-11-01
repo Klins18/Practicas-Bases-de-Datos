@@ -10,4 +10,4 @@ Integrantes:
 
 -Marco Jafeth Choque Ordoñez
 
--Flor Ayelen Michcapacchua Huarca
+-Flor Ayelen Michcapacchua Huarca (Ayelen11)
