@@ -1,7 +1,6 @@
 CREATE TABLE reserva (
 	id_reserva BIGINT GENERATED ALWAYS AS IDENTITY,
 	fecha_reserva DATE NOT NULL,
-	fecha_clase DATE NOT NULL,
 	estado_reserva VARCHAR(15) NOT NULL,
 	id_miembro BIGINT NOT NULL,
 	id_sesion BIGINT NOT NULL,
